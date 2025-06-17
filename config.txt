@@ -1,3 +1,4 @@
 some change that were made in after init
 need to pull this file down
 adding some additional configurations
+found a couple of more config values that ar needed
